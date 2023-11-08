@@ -1,0 +1,1 @@
+redirect to resume-playlist
